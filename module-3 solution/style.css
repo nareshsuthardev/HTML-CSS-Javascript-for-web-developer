@@ -43,8 +43,8 @@ body {
 }
 .icon-bar{background-color: black;}
 .navbar-header button.navbar-toggle {
-  clear: both; align-content: center;
-  margin-left: 1020px; margin-bottom: -88px;
+  clear: both; align-content: center; 
+  margin-left: 1220px; margin-bottom: -88px;
 }
 
 #page-title {
