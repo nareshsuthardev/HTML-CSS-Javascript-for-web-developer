@@ -44,7 +44,7 @@ body {
 .icon-bar{background-color: black;}
 .navbar-header button.navbar-toggle {
   clear: both; align-content: center; 
-  margin-left: 1000px; margin-bottom: -8px;
+ margin-bottom: -8px;
 }
 
 #page-title {
