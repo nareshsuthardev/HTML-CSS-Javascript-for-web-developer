@@ -7,3 +7,7 @@
 <a href="https://nareshsuthar-1.github.io/HTML-CSS-Javascript-for-web-developer/module-4%20solution/index.html" target="_blank"> mod-4 solution</a>
 <h5>Module-5 assignment</h5>
 <a href="https://nareshsuthar-1.github.io/HTML-CSS-Javascript-for-web-developer/module-5%20solution/index.html" target="_blank"> mod-5 solution</a>
+
+
+<h5>Amazing Quiz App</h5> 
+<br><a href="https://nareshsuthar-1.github.io/HTML-CSS-Javascript-for-web-developer/Quiz%20App/index.html" target="_blank">Amazing Quiz App</a>
