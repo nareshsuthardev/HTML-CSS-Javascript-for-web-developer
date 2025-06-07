@@ -9,8 +9,8 @@ This repository contains module-based projects developed while following the **"
 **Description:**  
 Covers foundational concepts of CSS including selectors, rules, layout handling, and responsive design techniques.
 
-- **Live Demo:** [View Module 2 Solution](https://nareshsuthar-1.github.io/HTML-CSS-Javascript-for-web-developer/module-2%20solution/)
-- **Source Code:** [GitHub - Module 2](https://github.com/NareshSuthar-1/HTML-CSS-Javascript-for-web-developer/tree/main/module-2%20solution)
+- **Live Demo:** [View Module 2 Solution](https://nareshsuthardev.github.io/HTML-CSS-Javascript-for-web-developer/module-2%20solution/)
+- **Source Code:** [GitHub - Module 2](https://github.com/nareshsuthardev/HTML-CSS-Javascript-for-web-developer/tree/main/module-2%20solution)
 
 ---
 
@@ -19,8 +19,8 @@ Covers foundational concepts of CSS including selectors, rules, layout handling,
 **Description:**  
 Introduces JavaScript and jQuery for DOM manipulation, along with Bootstrap for layout and styling. Also demonstrates basic interaction with APIs.
 
-- **Live Demo:** [View Module 3 Solution](https://nareshsuthar-1.github.io/HTML-CSS-Javascript-for-web-developer/module-3%20solution/index.html)
-- **Source Code:** [GitHub - Module 3](https://github.com/NareshSuthar-1/HTML-CSS-Javascript-for-web-developer/tree/main/module-3%20solution)
+- **Live Demo:** [View Module 3 Solution](https://nareshsuthardev.github.io/HTML-CSS-Javascript-for-web-developer/module-3%20solution/index.html)
+- **Source Code:** [GitHub - Module 3](https://github.com/nareshsuthardev/HTML-CSS-Javascript-for-web-developer/tree/main/module-3%20solution)
 
 ---
 
@@ -29,8 +29,8 @@ Introduces JavaScript and jQuery for DOM manipulation, along with Bootstrap for 
 **Description:**  
 A complete static website project that fetches data from an API and dynamically renders it onto the page. Focuses on modular, reusable code practices.
 
-- **Live Demo:** [View Module 4 Solution](https://nareshsuthar-1.github.io/HTML-CSS-Javascript-for-web-developer/module-4%20solution/index.html)
-- **Source Code:** [GitHub - Module 4](https://github.com/NareshSuthar-1/HTML-CSS-Javascript-for-web-developer/tree/main/module-4%20solution)
+- **Live Demo:** [View Module 4 Solution](https://nareshsuthardev.github.io/HTML-CSS-Javascript-for-web-developer/module-4%20solution/index.html)
+- **Source Code:** [GitHub - Module 4](https://github.com/nareshsuthardev/HTML-CSS-Javascript-for-web-developer/tree/main/module-4%20solution)
 
 ---
 
@@ -39,8 +39,8 @@ A complete static website project that fetches data from an API and dynamically 
 **Description:**  
 Final project that combines all previous learnings into a professional restaurant website. Demonstrates advanced layout, responsiveness, JavaScript features, and API data integration.
 
-- **Live Demo:** [View Module 5 Solution](https://nareshsuthar-1.github.io/HTML-CSS-Javascript-for-web-developer/module-5%20solution/index.html)
-- **Source Code:** [GitHub - Module 5](https://github.com/NareshSuthar-1/HTML-CSS-Javascript-for-web-developer/tree/main/module-5%20solution)
+- **Live Demo:** [View Module 5 Solution](https://nareshsuthardev.github.io/HTML-CSS-Javascript-for-web-developer/module-5%20solution/index.html)
+- **Source Code:** [GitHub - Module 5](https://github.com/nareshsuthardev/HTML-CSS-Javascript-for-web-developer/tree/main/module-5%20solution)
 
 ---
 
@@ -58,4 +58,4 @@ These projects were created to:
 ## Repository
 
 Explore the full repository and all projects here:  
-[GitHub Repository](https://github.com/NareshSuthar-1/HTML-CSS-Javascript-for-web-developer)
+[GitHub Repository](https://github.com/nareshsuthardev/HTML-CSS-Javascript-for-web-developer)
